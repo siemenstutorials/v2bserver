@@ -2,7 +2,7 @@
 # 1.Docker install
 
 ````bash
-docker run -d --name=aurora \
+docker run -d --name=Node_name \
 -v /root/.cert:/root/.cert \
 -e API=API \
 -e TOKEN=TOKEN \
